@@ -20,7 +20,7 @@ main()
             b[j][i] = a[i][j];
         }
     }
-    printf("\n\Original matrix is:\n\n");
+    printf("\n\nOriginal matrix is:\n\n");
     for (i=0; i<m; i++)
     {
         for (j=0; j<n; j++)
